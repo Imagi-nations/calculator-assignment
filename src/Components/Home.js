@@ -1,5 +1,4 @@
 
-import { Textfit } from "react-textfit"
 import "./Home.css"
 function Home ({ value }){
   return (
