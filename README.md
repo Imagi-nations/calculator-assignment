@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+view live project on {https://okondor-calculator-assignment.netlify.app/}
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
